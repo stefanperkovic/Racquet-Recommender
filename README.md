@@ -1,2 +1,2 @@
 # Racquet-Recommender
-A program that recommends you a racquet based on your playstyle and also reccommends you a certain type of string. 
+A project that recommends you a type of racquet and strings based on inputed information about a persons personal tennis playstyle. 
